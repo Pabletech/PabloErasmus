@@ -31,7 +31,7 @@ function Projects() {
               isBlog={false}
               title="Web4u"
               description="Web4u surgió como un proyecto integral para un trabajo académico, donde mi objetivo fue desarrollar una presencia digital efectiva para una empresa ficticia. "
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://webpablo.onrender.com/"
                           
             />
           </Col>
