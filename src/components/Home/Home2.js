@@ -19,7 +19,7 @@ function Home2() {
               ¿Por que deberia de ser seleccionado para la beca <span className="purple"> ERASMUS </span>?
             </h1>
             <p className="home-about-body">
-            Soy un amante de la programación que está emocionado por la idea de unirse al Erasmus. Tengo un nivel alto de Ingls, así que no habrá problemas de comunicación. Soy un <span className="purple">APASIONADO</span> de lo que estudio con grandes ambiciones y muchas ganas de aprender. 
+            Soy un amante de la programación que está emocionado por la idea de unirse al Erasmus. Tengo un nivel alto de Inglés, así que no habrá problemas de comunicación. Soy un <span className="purple">APASIONADO</span> de lo que estudio con grandes ambiciones y muchas ganas de aprender. 
               <br />
               <br />¿Por qué deberían elegirme? Porque estoy listo para sumergirme en esta experiencia con toda la energía. No solo aportaré mis habilidades de programación, sino también un entusiasmo contagioso. Quiero hacer de mi participación en Erasmus algo <span className="purple">INOLVIDABLE</span> para todos nosotros.
               <i>
